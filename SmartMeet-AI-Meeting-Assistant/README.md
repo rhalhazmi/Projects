@@ -69,3 +69,7 @@ An application that records meetings, highlights key points automatically, and p
 - Use case diagram (user + AI interactions)
 - Context diagram (stakeholders and external services)
 - Software architectural diagram using Pipe-and-Filter style for meeting analysis/highlighting flow
+
+## Files
+- `SmartMeet project.pdf` — requirements, stakeholder analysis, functional/non-functional requirements, system requirements, and architecture diagrams
+
