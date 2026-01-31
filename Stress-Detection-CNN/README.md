@@ -1,14 +1,17 @@
 # Stress Detection Using Face Analysis (CNN)
 
-Built a binary stress classifier from facial expressions by re-labeling FER-2013 into **Stress** (angry, disgust, fear) vs **No-Stress** (happy, neutral). Trained a CNN with data augmentation and evaluated using accuracy, F1-score, and ROC-AUC.
+Built a binary stress classifier from facial expressions by re-labeling FER-2013 into **Stress** (angry, disgust, fear) vs **No-Stress** (happy, neutral). Trained a CNN with data augmentation and evaluated the model on a separate test set.
 
-## Key Results
-- Test Accuracy: ~79%
-- F1-score: ~0.73
-- ROC-AUC: ~0.88
+## Evaluation (Test Set)
+- Accuracy: 0.7894 (78.94%)
+- Precision: 0.7738
+- Recall: 0.6880
+- F1-score: 0.7284
+- ROC-AUC: 0.8783
+- Confusion Matrix: computed using true labels vs predicted labels
 
 ## Tech Stack
-Python, TensorFlow/Keras, NumPy, Pandas, Matplotlib
+Python, TensorFlow/Keras, NumPy, Pandas, Matplotlib, scikit-learn
 
 ## Files
 - `ML_project_code.ipynb` — training + evaluation notebook
