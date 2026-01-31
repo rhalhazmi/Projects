@@ -64,4 +64,4 @@ Roles included:
 ## Files
 - `Password&Authentication Project.pdf` — booth overview, activities, roles, and event documentation
 - `Preparation Phase .pdf` — preparation plan (overview, activities, responsibilities)
-- `booth presentation.pdf` — presentation slides (SFA/2FA/MFA, password tips, phishing, games)
+- Full-size booth file (Google Drive) — full booth materials/presentation file (too large for GitHub): https://drive.google.com/file/d/1m8-Rtf6db5d7b90MatOV-6yIf9a0ZEoo/view?usp=drive_link
