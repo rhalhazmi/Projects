@@ -55,8 +55,8 @@ A Sequential CNN for binary classification:
 - Dense(1, Sigmoid)
 
 Output interpretation:
-- > 0.5 → **Stress**
-- ≤ 0.5 → **No Stress**
+- `p > 0.5` → Stress
+- `p ≤ 0.5` → No Stress
 
 **Training setup**
 - Optimizer: Adam
