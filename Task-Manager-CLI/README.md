@@ -42,5 +42,7 @@ Interactive functional testing covered:
 
 ## Files
 - `Task Manager Program Project.pdf` — full project report
-- (Optional) `ToDoList.sh` — Bash script (add to repo if available)
-- (Optional) `pending_tasks.txt`, `completed_tasks.txt` — sample data files
+- `ToDoList.sh` — Bash task manager program (main script)
+- `pending_tasks.txt` — created/updated at runtime to store pending tasks
+- `completed_tasks.txt` — created/updated at runtime to store completed tasks
+
