@@ -7,23 +7,42 @@ Project Overview
 Mind Care is a UI/UX design project developed for the User Interface Design (HCI2011) course at Umm Al-Qura University. The application focuses on supporting students’ mental health through mood tracking, motivational support, session history tracking, and educational mental health resources.
 
 Features
+
 Daily mood check-ins
+
 Session history tracking
+
 Personalized condition summaries
+
+
 Motivational quotes and wellness tips
+
 Mental health progress tracking
+
 Doctor communication support
+
 Privacy-focused design
+
 Calm and student-friendly interface
+
 Application Pages
+
 Home Page
+
 Sign In / Sign Up
+
 Main Menu
+
 Daily Check-in
+
 My Condition
+
 Session History
+
 Motivation Page
+
 Contact Us
+
 Research & User Analysis
 
 The project included:
