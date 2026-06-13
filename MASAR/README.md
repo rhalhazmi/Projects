@@ -34,24 +34,7 @@ The dataset was selected because it provides a realistic environment for trainin
 
 ---
 
-## Project Structure
 
-```text
-MASAR/
-│
-├── main.py
-├── setup_dataset.py
-├── preprocessing.py
-├── data_loader.py
-├── train.py
-├── retrieval.py
-├── evaluation.py
-├── xai.py
-├── testing.py
-└── README.md
-```
-
----
 
 ## Module Description
 
